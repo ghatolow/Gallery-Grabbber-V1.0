@@ -1,8 +1,9 @@
 # Gallery-Grabbber-V1.0
-Made By Python
+
 
 # How To use 
-Pydroid3 with editing "your bot token" "your chat id" Pydroid3 with run 
+Pydroid3 with editing "your bot token" "your chat id" Pydroid3 with run Pydroid3 with working Pydroid3 link:https://play.google.com/store/apps/details?id=ru.iiec.pydroid3 
+iOS does not work on Apple devices
 
 # Help?❓
 https://guns.lol/ciddi
