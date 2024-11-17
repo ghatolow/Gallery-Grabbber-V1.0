@@ -1,4 +1,4 @@
-# Gallery-Grabbber-V1.0
+# Gallery-Grabber-V1.0
 
 
 # How To use 
