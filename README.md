@@ -7,6 +7,7 @@ iOS does not work on Apple devices
 
 # Help?❓
 https://guns.lol/ciddi
+developer:fearyx289 github
 
 # Features⚡
 Photos in the gallery, screenshots, videos will be sent to you as a zip file from Telegram.
